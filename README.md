@@ -1,49 +1,49 @@
 # Sales-Analytics-Dashboard--Python-and-Power-BI
-📌 Project Overview<br>
-This project focuses on analyzing e-commerce sales data to extract meaningful insights and support data-driven decision-making. The workflow includes data cleaning and preprocessing using Python, followed by building an interactive dashboard in Power BI.
+📌 Project Overview<br><br>
+This project focuses on analyzing e-commerce sales data to extract meaningful insights and support data-driven decision-making. The workflow includes data cleaning and preprocessing using Python, followed by building an interactive dashboard in Power BI.<br>
 The dashboard helps identify sales trends, regional performance, profit distribution, and key business challenges.
 <hr>
 
-🎯 Objectives<br>
-Clean and preprocess raw sales data
-Analyze sales performance across regions, categories, and time
-Identify profit trends and loss-making areas
-Build an interactive dashboard for easy visualization
+🎯 Objectives<br><br>
+Clean and preprocess raw sales data<br>
+Analyze sales performance across regions, categories, and time<br>
+Identify profit trends and loss-making areas<br>
+Build an interactive dashboard for easy visualization<br>
 <hr>
 
-🧰 Tools & Technologies<br>
-Python
-Pandas
-NumPy
-Power BI
-Jupyter Notebook
+🧰 Tools & Technologies<br><br>
+Python<br>
+Pandas<br>
+NumPy<br>
+Power BI<br>
+Jupyter Notebook<br>
 
 <hr>
-📊 Key Insights<br>
-📍 West region generated the highest sales (~₹725K)
-🪑 Furniture category has lower profit margins
-📅 Sales peak in November, indicating seasonal demand
-⚠️ Identified loss-making transactions affecting profitability
+📊 Key Insights<br><br>
+📍 West region generated the highest sales (~₹725K)<br>
+🪑 Furniture category has lower profit margins<br>
+📅 Sales peak in November, indicating seasonal demand<br>
+⚠️ Identified loss-making transactions affecting profitability<br>
 <hr>
 
-📈 Dashboard Features<br>
-Region-wise Sales Analysis
-Category & Sub-category Performance
-Monthly Sales Trends
-Profit vs Loss Visualization
-Interactive Filters & Slicers
+📈 Dashboard Features<br><br>
+Region-wise Sales Analysis<br>
+Category & Sub-category Performance<br>
+Monthly Sales Trends<br>
+Profit vs Loss Visualization<br>
+Interactive Filters & Slicers<br>
 <hr>
 
-🔄 Workflow<br>
-Data Collection
-Imported e-commerce dataset
-Data Cleaning (Python)
-Handled missing values
-Removed duplicates
-Data formatting and transformation
-Data Analysis
-Explored trends and patterns
-Calculated key metrics
-Dashboard Creation (Power BI)
-Built interactive visuals
-Added filters for dynamic insights
+🔄 Workflow<br><br>
+Data Collection<br>
+Imported e-commerce dataset<br>
+Data Cleaning (Python)<br>
+Handled missing values<br>
+Removed duplicates<br>
+Data formatting and transformation<br>
+Data Analysis<br>
+Explored trends and patterns<br>
+Calculated key metrics<br>
+Dashboard Creation (Power BI)<br>
+Built interactive visuals<br>
+Added filters for dynamic insights<br>
